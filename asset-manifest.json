@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f03452ba.chunk.css",
+    "main.js": "/static/js/main.d8ee7026.chunk.js",
+    "main.js.map": "/static/js/main.d8ee7026.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.f6dd6d07.chunk.js": "/static/js/2.f6dd6d07.chunk.js",
+    "static/js/2.f6dd6d07.chunk.js.map": "/static/js/2.f6dd6d07.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f994e6354929da49b79e6bf06ff3cbf6.js": "/precache-manifest.f994e6354929da49b79e6bf06ff3cbf6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f03452ba.chunk.css.map": "/static/css/main.f03452ba.chunk.css.map",
+    "static/media/email.png": "/static/media/email.4d22c318.png",
+    "static/media/facebook.png": "/static/media/facebook.7857a088.png",
+    "static/media/hofvijver.jpg": "/static/media/hofvijver.7376902c.jpg",
+    "static/media/insta.png": "/static/media/insta.ff01dc84.png",
+    "static/media/izziel.jpg": "/static/media/izziel.61086cfe.jpg",
+    "static/media/logo.svg": "/static/media/logo.495d93cc.svg",
+    "static/media/lowresportfolio-1.jpg": "/static/media/lowresportfolio-1.f77ac43f.jpg",
+    "static/media/lowresportfolio-11.jpg": "/static/media/lowresportfolio-11.3a646b4d.jpg",
+    "static/media/lowresportfolio-18.jpg": "/static/media/lowresportfolio-18.5ee72b4e.jpg",
+    "static/media/lowresportfolio-24.jpg": "/static/media/lowresportfolio-24.e6bf9179.jpg",
+    "static/media/lowresportfolio-33.jpg": "/static/media/lowresportfolio-33.e45ce3b2.jpg",
+    "static/media/lowresportfolio-36.jpg": "/static/media/lowresportfolio-36.9e6453d0.jpg",
+    "static/media/lowresportfolio-39.jpg": "/static/media/lowresportfolio-39.05610d36.jpg",
+    "static/media/lowresportfolio-4.jpg": "/static/media/lowresportfolio-4.a1c18617.jpg",
+    "static/media/slovenie.jpg": "/static/media/slovenie.54371e6f.jpg"
+  }
+}
